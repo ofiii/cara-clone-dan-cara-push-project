@@ -1,0 +1,19 @@
+cara clone: 
+1. klik folder yang di pilih sebagai penyimpanan project tersebut
+2. klik kanan folder tersebut dan klik Git Bursh Here
+3. ketik git version
+4.buka repository yang akan di clone lalu pilih project yang akan di clone, klik clone or downloaded maka copykan link yang muncul
+5. ketik git clone beserta halaman link yang telah di copy 
+6. maka folder yang ada di github akan ada di folder pribadi anda
+7.selesai
+
+cara push:
+1. pilih folder pribadi anda yang akan dipilih lalu klik kanan dan pilih git brush here
+2. ketik git init pada cmd lalu enter
+3. ketik git add * (bintang digunakan apa bila semua file yang ada di dalam tersebut akan di upload jika hanya beberapa berarti tidak perlu menggunakan bintang)|enter
+4. ketik git commit -m "bebas aja ini mah" | enter
+5. ketik git remote add origin beserta link yang sudah di copy ketika anda sudah mengisi data di new repository dan mengklik create repository
+6. ketik git push origin master
+7. untuk memastikan sudah terpush maka buka repositories anda
+8. selesai
+
